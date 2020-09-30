@@ -1,2 +1,2 @@
 # cool-algos
-A repostiory for algorithms written in several langauges
+A repostiory for algorithm implementations in several langauges
