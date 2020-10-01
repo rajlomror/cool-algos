@@ -12,6 +12,7 @@ var reader *bufio.Reader = bufio.NewReader(os.Stdin)
 var writer *bufio.Writer = bufio.NewWriter(os.Stdout)
 
 func mergeSort(n int, arr []int) {
+  // O(n*logn)
   mergeSortRecursive(arr, 0, n)
 }
 
